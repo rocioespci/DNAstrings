@@ -1,2 +1,2 @@
 # DNAstrings
-R package for reverse complement DNA sequences
+R package to reverse complement DNA sequences
